@@ -4,11 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b8f331db-1d8f-4dda-8c2f-a77f6653446f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Act2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/UTM_CJ_A2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/UTM_CJ_A2.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="b8f331db-1d8f-4dda-8c2f-a77f6653446f" name="Changes" comment="Primera versión del programa funcionando correctamente">
+      <change beforePath="$PROJECT_DIR$/out/production/UTM_CJ_A2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UTM_CJ_A2/.idea/UTM_CJ_A2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UTM_CJ_A2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UTM_CJ_A2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UTM_CJ_A2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UTM_CJ_A2/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UTM_CJ_A2/Act2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UTM_CJ_A2/README.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +59,33 @@
       <option name="presentableId" value="Default" />
       <updated>1685258981691</updated>
     </task>
+    <task id="LOCAL-00001" summary="Primera versión del programa funcionando correctamente">
+      <created>1685263765539</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1685263765539</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Primera versión del programa funcionando correctamente">
+      <created>1685263810592</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1685263810592</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Primera versión del programa funcionando correctamente">
+      <created>1685263829321</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1685263829321</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Primera versión del programa funcionando correctamente" />
+    <option name="LAST_COMMIT_MESSAGE" value="Primera versión del programa funcionando correctamente" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
